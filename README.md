@@ -2,5 +2,5 @@
 
 React JS Fundamentals Course
 
-배보링크: https://tokyj515.github.io/movie_app
+배보링크: https://tokyj515.github.io/movie_app <br>
 스터디링크: https://radiant515.tistory.com/4?category=1004450
